@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge with this app was getting the list of items to persist after closing the app due to not having permissions to write to a file.
 
 ## License
 
